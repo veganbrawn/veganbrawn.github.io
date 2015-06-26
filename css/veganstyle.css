@@ -1,0 +1,34 @@
+body {
+  background-image: url('../images/fieryMeNdCorrected.jpg');
+  background-position: 50% 76%%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.card {
+  position: absolute;
+  left: 56px;
+  width: 448px;
+  background-color: #33691e;
+  opacity: .9;
+}
+
+img {
+  width: 2rem;
+  height: 2rem;
+}
+
+.card .card-content p {
+  margin-bottom: 12px;
+}
+
+#name {
+  font-size: 56px;
+  color: #A5F084;
+  margin-bottom: 0px;
+}
+
+#summary {
+  font-size: 19px;
+  color:#68B347;
+}
