@@ -1,6 +1,6 @@
 body {
-  background-image: url('../images/fieryMeNdCorrected.jpg');
-  background-position: 50% 76%%;
+  background-image: url('../Images/fruitgenhance.jpg');
+  background-position: 70% 50%%;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -9,7 +9,7 @@ body {
   position: absolute;
   left: 56px;
   width: 448px;
-  background-color: #33691e;
+  background-color: #AB82FF;
   opacity: .9;
 }
 
